@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(255, 243, 155);
+    justify-content: center;
+}
+
+.box{
+    border-radius: 5;
+    padding: 5;
+    gap: 10px;
+    justify-content: center;
+    background: rgb(159, 163, 164);
+}
+
+.gbr{
+    height: 190px;
+    width: 200px;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.box1{
+    padding: 10px;
+    margin:10px;
+    display:inline-flex;
+    border-style: double;
+}
+h2,p{
+    background: rgb(201, 211, 213);
+    
+}
+button{
+    background-color: rgb(128, 117, 0);
+    color: rgb(243, 240, 150);
+    height: 32px;
+    border: none;
+    padding-inline: 16px;
+    border-radius: 16px;
+    cursor: pointer;
+}
